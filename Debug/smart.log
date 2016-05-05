@@ -1,10 +1,9 @@
-﻿生成启动时间为 2016/1/8 9:13:04。
+﻿生成启动时间为 2016/5/5 16:45:17。
      1>项目“E:\Projects_VS2010\smart\smart\smart.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
-         正在创建“Debug\smart.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+         正在对“Debug\smart.unsuccessfulbuild”执行 Touch 任务。
        ClCompile:
-         G:\VisualStudio2010\VC\bin\CL.exe /c /ID:\OpenCv_2.4\opencv\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
-         main.cpp
+         所有输出均为最新。
        ResourceCompile:
          所有输出均为最新。
        ManifestResourceCompile:
@@ -15,7 +14,6 @@
          Debug\main.obj
          Debug\preproccess.obj
          Debug\SEGD.obj
-         Debug\ThreadMethod.obj
        Manifest:
          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\smart.exe.embed.manifest" /manifest Debug\smart.exe.intermediate.manifest
          所有输出均为最新。
@@ -29,4 +27,4 @@
 
 生成成功。
 
-已用时间 00:00:03.10
+已用时间 00:00:01.42

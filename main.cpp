@@ -7,7 +7,7 @@ SEGD segGD;
 int main()
 {
 	
-	const char *imagename="E:\\相关文件\\查水表\\数字\\武汉表\\21.bmp";
+	const char *imagename="data\\21.bmp";
 	Mat img=imread(imagename);
 	imshow("原图",img);//显示原图
 

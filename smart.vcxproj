@@ -79,13 +79,11 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="preproccess.cpp" />
     <ClCompile Include="SEGD.cpp" />
-    <ClCompile Include="ThreadMethod.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="preproccess.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="SEGD.h" />
-    <ClInclude Include="ThreadMethod.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="smart.rc" />
